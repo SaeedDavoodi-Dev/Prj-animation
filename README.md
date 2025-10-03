@@ -1,6 +1,6 @@
 # 🎯 Minimal Goods Website
 
-<img width="1346" height="604" alt="Image" src="https://github.com/user-attachments/assets/e5e75607-5885-4e28-a510-b10731c10a02" />
+<img width="1346" height="604" alt="Image" src="https://github.com/user-attachments/assets/b7d589bf-568d-4a56-8b25-ec6f5f57bdee" />
 ## 📖 Description : 
 i built a 3d box that moves upward on the z-axis when hovered 
 
