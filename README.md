@@ -1,14 +1,13 @@
 # 🎯 Minimal Goods Website
 
 <img width="1346" height="604" alt="Image" src="https://github.com/user-attachments/assets/b7d589bf-568d-4a56-8b25-ec6f5f57bdee" />
-<br>
 <img width="1344" height="607" alt="Image" src="https://github.com/user-attachments/assets/0b254a93-4611-4255-8f84-5fc4fc80bafb" />
-<br>
+  
 ## 📖 Description : 
 i built a 3d box that moves upward on the z-axis when hovered 
-<br>
+  
 - [Demo Project](https://saeeddavoodi-dev.github.io/Prj-animation/)
-<br>
+-   
 
 ## 🛠️ Built With
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
