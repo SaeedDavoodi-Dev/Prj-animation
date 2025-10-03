@@ -5,15 +5,17 @@
   
 ## 📖 Description : 
 i built a 3d box that moves upward on the z-axis when hovered
-style{margin-bottom: 50px;}
+  
+---
+  
 - [Live Demo](https://saeeddavoodi-dev.github.io/Prj-animation/)
   
 ## 🛠️ Built With
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
+  
   ---
-
+  
 - Developed by SAEED DAVOODI
 
 - Created - 2025-10-02
