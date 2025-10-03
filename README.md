@@ -1,6 +1,6 @@
-# 🎯 transform trick - 3D
+# 🎯 Minimal Goods Website
 
-<img width="1329" height="574" alt="Image" src="https://github.com/user-attachments/assets/553301d9-a6de-44ab-a497-98654f3aa736" />
+<img width="1346" height="604" alt="Image" src="https://github.com/user-attachments/assets/e5e75607-5885-4e28-a510-b10731c10a02" />
 ## 📖 Description : 
 i built a 3d box that moves upward on the z-axis when hovered 
 
