@@ -4,7 +4,7 @@
 <img width="1344" height="607" alt="Image" src="https://github.com/user-attachments/assets/0b254a93-4611-4255-8f84-5fc4fc80bafb" />
   
 ## 📖 Description : 
-i built a 3d box that moves upward on the z-axis when hovered
+A website built with pure CSS scroll-driven animations - no JavaScript required. Features smooth scroll-triggered animations using CSS animation-timeline and scroll-timeline & view-timeline properties
   
 ---
   
